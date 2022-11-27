@@ -1,0 +1,144 @@
+{
+    "menu": [
+        {
+            "img": "image/apple-iphone-11.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 11",
+            "release": "2019, September 20",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A13 Bionic",
+            "ram": "4GB RAM",
+            "battery": "3110 mAh"
+        },
+        {
+            "img": "image/apple-iphone-11-pro.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 11 Pro",
+            "release": "2019, September 20",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A13 Bionic",
+            "ram": "4GB RAM",
+            "battery": "3046 mAh"
+        },
+        {
+            "img": "image/apple-iphone-11-pro-max.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 11 Pro Max",
+            "release": "2019, September 20",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A13 Bionic",
+            "ram": "4GB RAM",
+            "battery": "3969 mAh"
+        },
+        {
+            "img": "image/apple-iphone-12.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 12",
+            "release": "2020, October 23",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A14 Bionic",
+            "ram": "4GB RAM",
+            "battery": "2815 mAh"
+        },
+        {
+            "img": "image/apple-iphone-12-pro.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 12 Pro",
+            "release": "2020, October 23",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A14 Bionic",
+            "ram": "6GB RAM",
+            "battery": "2815 mAh"
+        },
+        {
+            "img": "image/apple-iphone-12-pro-max.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 12 Pro Max",
+            "release": "2020, October 23",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A14 Bionic",
+            "ram": "6GB RAM",
+            "battery": "3687 mAh"
+        },
+        {
+            "img": "image/apple-iphone-12-mini.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 12 Mini",
+            "release": "2020, October 23",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A14 Bionic",
+            "ram": "4GB RAM",
+            "battery": "2227 mAh"
+        },
+        {
+            "img": "image/apple-iphone-13.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 13",
+            "release": "2021, September 24",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A15 Bionic",
+            "ram": "4GB RAM",
+            "battery": "3240 mAh"
+        },
+        {
+            "img": "image/apple-iphone-13-pro.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 13 pro",
+            "release": "2021, September 24",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A15 Bionic",
+            "ram": "6GB RAM",
+            "battery": "3095 mAh"
+        },
+        {
+            "img": "image/apple-iphone-13-pro-max.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 13 Pro Max",
+            "release": "2021, September 24",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A15 Bionic",
+            "ram": "4GB RAM",
+            "battery": "2438 mAh"
+        },
+        {
+            "img": "image/apple-iphone-14.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 14",
+            "release": "2022, September 16",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A16 Bionic",
+            "ram": "6GB RAM",
+            "battery": "3279 mAh"
+        },
+        {
+            "img": "image/apple-iphone-14-pro.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 14 Pro",
+            "release": "2022, September 16",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A16 Bionic",
+            "ram": "6GB RAM",
+            "battery": "3200 mAh"
+        },
+        {
+            "img": "image/apple-iphone-14-pro-max.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 14 Pro Max",
+            "release": "2022, September 16",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A16 Bionic",
+            "ram": "6GB RAM",
+            "battery": "4323 mAh"
+        },
+        {
+            "img": "image/apple-iphone-14-plus.jpg",
+            "category": "iphone",
+            "name": "Apple Iphone 14 Plus",
+            "release": "2022, September 16",
+            "storage": "64GB/128GB/256GB Storage",
+            "chipset": "Apple A16 Bionic",
+            "ram": "6GB RAM",
+            "battery": "4323 mAh"
+        }
+    ]
+}
