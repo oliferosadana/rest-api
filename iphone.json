@@ -2,7 +2,7 @@
     "menu": [
         {
             "img": "image/apple-iphone-11.jpg",
-            "category": "iphone",
+            "category": "iphone11",
             "name": "Apple Iphone 11",
             "release": "2019, September 20",
             "storage": "64GB/128GB/256GB Storage",
@@ -12,7 +12,11 @@
         },
         {
             "img": "image/apple-iphone-11-pro.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone11",
+                    "11pro"
+                ],
             "name": "Apple Iphone 11 Pro",
             "release": "2019, September 20",
             "storage": "64GB/128GB/256GB Storage",
@@ -22,7 +26,12 @@
         },
         {
             "img": "image/apple-iphone-11-pro-max.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone11",
+                    "11pro",
+                    "11proMax"
+                ],
             "name": "Apple Iphone 11 Pro Max",
             "release": "2019, September 20",
             "storage": "64GB/128GB/256GB Storage",
@@ -32,7 +41,7 @@
         },
         {
             "img": "image/apple-iphone-12.jpg",
-            "category": "iphone",
+            "category": "iphone12",
             "name": "Apple Iphone 12",
             "release": "2020, October 23",
             "storage": "64GB/128GB/256GB Storage",
@@ -42,7 +51,11 @@
         },
         {
             "img": "image/apple-iphone-12-pro.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone12",
+                    "12pro"
+                ],
             "name": "Apple Iphone 12 Pro",
             "release": "2020, October 23",
             "storage": "64GB/128GB/256GB Storage",
@@ -52,7 +65,12 @@
         },
         {
             "img": "image/apple-iphone-12-pro-max.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone12",
+                    "12pro",
+                    "12proMax"
+                ],
             "name": "Apple Iphone 12 Pro Max",
             "release": "2020, October 23",
             "storage": "64GB/128GB/256GB Storage",
@@ -62,7 +80,11 @@
         },
         {
             "img": "image/apple-iphone-12-mini.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone12",
+                    "12mini"
+                ],
             "name": "Apple Iphone 12 Mini",
             "release": "2020, October 23",
             "storage": "64GB/128GB/256GB Storage",
@@ -72,7 +94,7 @@
         },
         {
             "img": "image/apple-iphone-13.jpg",
-            "category": "iphone",
+            "category": "iphone13",
             "name": "Apple Iphone 13",
             "release": "2021, September 24",
             "storage": "64GB/128GB/256GB Storage",
@@ -82,7 +104,11 @@
         },
         {
             "img": "image/apple-iphone-13-pro.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone13",
+                    "13pro"
+                ],
             "name": "Apple Iphone 13 pro",
             "release": "2021, September 24",
             "storage": "64GB/128GB/256GB Storage",
@@ -92,7 +118,12 @@
         },
         {
             "img": "image/apple-iphone-13-pro-max.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone13",
+                    "13pro",
+                    "13proMax"
+                ],
             "name": "Apple Iphone 13 Pro Max",
             "release": "2021, September 24",
             "storage": "64GB/128GB/256GB Storage",
@@ -102,7 +133,7 @@
         },
         {
             "img": "image/apple-iphone-14.jpg",
-            "category": "iphone",
+            "category": "iphone14",
             "name": "Apple Iphone 14",
             "release": "2022, September 16",
             "storage": "64GB/128GB/256GB Storage",
@@ -112,7 +143,11 @@
         },
         {
             "img": "image/apple-iphone-14-pro.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone14",
+                    "14pro"
+                ],
             "name": "Apple Iphone 14 Pro",
             "release": "2022, September 16",
             "storage": "64GB/128GB/256GB Storage",
@@ -122,7 +157,12 @@
         },
         {
             "img": "image/apple-iphone-14-pro-max.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone14",
+                    "14pro",
+                    "14proMax"
+                ],
             "name": "Apple Iphone 14 Pro Max",
             "release": "2022, September 16",
             "storage": "64GB/128GB/256GB Storage",
@@ -132,7 +172,11 @@
         },
         {
             "img": "image/apple-iphone-14-plus.jpg",
-            "category": "iphone",
+            "category": 
+                [
+                    "iphone14",
+                    "14plus"
+                ],
             "name": "Apple Iphone 14 Plus",
             "release": "2022, September 16",
             "storage": "64GB/128GB/256GB Storage",
